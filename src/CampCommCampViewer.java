@@ -19,7 +19,6 @@ public class CampCommCampViewer implements CampViewerInterface{
         System.out.println("Remaining Slots: " + camp.getAvailableSlots());
         System.out.println("Name of Staff: " + camp.getStaffName());
         System.out.println("Description: " + camp.getDesc());
-        // More details can be added as needed
     }
 
     public void viewAllCamps() //Only able to view camps under his/her school. (Distinguishing it from the Staff View)
