@@ -7,3 +7,5 @@ The Javadoc file has been zipped, and should be unzipped in order to view. Open 
 We were unfortunately unable to extract the license for Visual Paradigm, so the class diagram is plagued with an unremovable watermark.
 
 Error Handling has been taken care of such that any user inputs with input mismatch error and out of bounds error will force the user to type a number in the bounds provided. Therefore, user inputs are very unlikely to give any errors whatsoever.
+
+Kindly test out the code on VSCode, since this Command Line Interface Application was made using it. Thank you, and welcome to CAMS@NTU!
